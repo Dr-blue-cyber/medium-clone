@@ -1,0 +1,15 @@
+* {
+  background: chocolate;
+}
+.menu-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item {
+  margin: 1rem;
+}
+#root {
+  background: cyan;
+}
